@@ -6,4 +6,4 @@
 - 📫 How to reach me - https://www.linkedin.com/in/georgi-pavlov-18401620b/
 
 
-## ** Technologies and tools **
+## **Technologies and tools**
