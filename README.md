@@ -7,4 +7,4 @@
 
 
 ## **Technologies and tools**
-![](https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css)
+(https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css)
