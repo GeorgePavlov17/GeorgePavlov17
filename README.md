@@ -8,5 +8,5 @@
 
 ## **Technologies and tools**
           
-![Angular_full_color_logo svg](https://user-images.githubusercontent.com/102145791/203865045-edbd47eb-1f23-465a-9d9a-60e3b85f17fd.png)
+<img width="26px"![Angular_full_color_logo svg](https://user-images.githubusercontent.com/102145791/203865045-edbd47eb-1f23-465a-9d9a-60e3b85f17fd.png)/>
 ![Typescript_logo_2020 svg](https://user-images.githubusercontent.com/102145791/203865058-5ff91bb8-9954-4aa4-adb7-faa0fe87ae80.png)
