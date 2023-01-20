@@ -1,5 +1,5 @@
 ## **👋 Hi, I’m Georgi Pavlov.**
-- 💻 Front-end developer.
+- 💻 Junior Front-end developer.
 - 👀 I’m interested in JavaScript and Front-end.
 - 🌱 I’m currently learning JS path in SoftUni and Angular framework at Udemy online course.
 - ✏️ Future goals - to become full stack developer.
