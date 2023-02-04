@@ -7,7 +7,7 @@
 
 
 ## **⚙️ Projects**
-   - <strong>Weather app</strong> - Weather application build on Angular/Ionic which in the first page show's you what the weather is in three popular cities. It also can give you more information about other cities that you can search in the search bar - like in which coutry is the city that you have searched, temperature, type of the weather, speed of wind, lowest and highest temperatures for the day. It is build on Anuglar/ionic - https://github.com/GeorgePavlov17/weather-app
+   - <strong>Weather app</strong> - Weather application in which the first page show's you what the weather is in three popular cities. It also can give you more information about other cities that you can search in the search bar - like in which coutry is the city that you have searched, temperature, type of the weather, speed of wind, lowest and highest temperatures for the day. It is build on Anuglar/ionic - https://github.com/GeorgePavlov17/weather-app
 
    - <strong>Task app</strong> - Task application in which you can add, delete or make important reminders and tasks to do for the day. It is build on Angular - https://github.com/GeorgePavlov17/task-app
 
